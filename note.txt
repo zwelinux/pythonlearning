@@ -1,0 +1,15 @@
+variable => data store
+data types => string, int 
+builtin function => print(), int(), str(), input(), type() 
+
+a1: data types တွေအကြောင်း ဆွေးနွေးကြမယ် 
+a2: builtin function တွေအကြောင်း  ဆွေးနွေးကြမယ် 
+a3: ဘယ်လိုမျိုးဆိုရင် var ပေးလို့မရဘူးလဲ 
+    - space ရှေ့ဆုံးမရ 
+    - python keywords တွေမရ 
+    - space / - ခံလို့မရ
+    - special char 
+    - ရှေ့ဆုံးမှာ ကိန်းတွေမရဘူး 
+
+-> python => dynamic typed 
+-> conditional rendering 
