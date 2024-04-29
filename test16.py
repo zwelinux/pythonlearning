@@ -5,13 +5,12 @@
              # 0      1         2           3       4      5
 mybasket = ['apple', 'orange', 'banana', 'peach', 'rum', 'wisky']
 
-
-mybasket.insert(1, "ice")
+# chanage / update 
+mybasket[2] = "Grapes"
 print(mybasket)
 
-
-
-
+# mybasket.insert(1, "ice")
+# print(mybasket)
 
 
 # if 'rum' in mybasket:
