@@ -5,12 +5,17 @@
              # 0      1         2           3       4      5
 mybasket = ['apple', 'orange', 'banana', 'peach', 'rum', 'wisky']
 
-if 'rum' in mybasket:
-    print("YES it is ")
+
+mybasket.insert(1, "ice")
+print(mybasket)
 
 
 
 
+
+
+# if 'rum' in mybasket:
+#     print("YES it is ")
 
 # print(mybasket)
 # print(type(mybasket))
