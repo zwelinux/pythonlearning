@@ -1,15 +1,15 @@
-variable => data store
-data types => string, int 
-builtin function => print(), int(), str(), input(), type() 
+Data Structure
++ + + + ++ + ++ 
 
-a1: data types တွေအကြောင်း ဆွေးနွေးကြမယ် 
-a2: builtin function တွေအကြောင်း  ဆွေးနွေးကြမယ် 
-a3: ဘယ်လိုမျိုးဆိုရင် var ပေးလို့မရဘူးလဲ 
-    - space ရှေ့ဆုံးမရ 
-    - python keywords တွေမရ 
-    - space / - ခံလို့မရ
-    - special char 
-    - ရှေ့ဆုံးမှာ ကိန်းတွေမရဘူး 
+# list 
+-> create 
+-> index 
+-> index -> chanage 
+-> loop
 
--> python => dynamic typed 
--> conditional rendering 
+str , int -> data structure
+
+1. list 
+2. tuple 
+3. set 
+4. dictionary 
